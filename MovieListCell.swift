@@ -1,10 +1,3 @@
-//
-//  MovieListCell.swift
-//  MovieList
-//
-//  Created by eSparkBiz-1 on 22/08/19.
-//  Copyright © 2019 eSparkBiz. All rights reserved.
-//
 
 import UIKit
 
