@@ -1,10 +1,3 @@
-//
-//  FEDataModel.swift
-//  FestEvents
-//
-//  Created by Kartum Infotech on 4/20/17.
-//  Copyright © 2017 Sunil Zalavadiya. All rights reserved.
-//
 
 import Foundation
 import UIKit
